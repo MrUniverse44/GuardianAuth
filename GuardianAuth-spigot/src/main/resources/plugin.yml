@@ -1,0 +1,8 @@
+name: GuardianAuth
+version: ${project.version}
+main: dev.mruniverse.guardianauth.guardianauth.GuardianAuthSpigot
+api-version: 1.16
+load: STARTUP
+authors: [ MrUniverse44, sebastnchan ]
+description: Simple Auth Plugin
+website: rigox.club

@@ -1,0 +1,4 @@
+name: GuardianAuth
+version: ${project.version}
+main: dev.mruniverse.guardianauth.GuardianAuthBungeeCord
+description: Simple Auth Plugin
