@@ -1,4 +1,4 @@
-package dev.mruniverse.guardianauth;
+package dev.mruniverse.guardianauth.bungeecord;
 
 import net.md_5.bungee.api.plugin.Plugin;
 

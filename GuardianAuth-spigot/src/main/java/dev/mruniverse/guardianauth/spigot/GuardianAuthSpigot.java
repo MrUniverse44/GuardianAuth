@@ -1,4 +1,4 @@
-package dev.mruniverse.guardianauth;
+package dev.mruniverse.guardianauth.spigot;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
