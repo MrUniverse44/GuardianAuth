@@ -47,7 +47,6 @@
     </build>
 
     <modules>
-        <module>guardianauth-common</module>
         <module>guardianauth-spigot</module>
         <module>guardianauth-bungeecord</module>
     </modules>

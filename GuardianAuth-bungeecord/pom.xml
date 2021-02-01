@@ -57,11 +57,5 @@
             <type>javadoc</type>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>dev.mruniverse.guardianauth</groupId>
-            <artifactId>GuardianAuth-common</artifactId>
-            <version>${project.version}</version>
-            <scope>compile</scope>
-        </dependency>
     </dependencies>
 </project>
